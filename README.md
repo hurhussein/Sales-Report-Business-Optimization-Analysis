@@ -23,7 +23,7 @@ Each section is supported by visualizations created in **Power BI**, with dynami
 
 - **Report** (`Sales_Report.pdf`): An analytical report presenting findings, insights, and strategic recommendations.
 - **Data** (`sales_data.csv`): The primary dataset used in this analysis, containing raw sales data for reproducibility.
-- **Documentation** (`Documentation.pdf`): Methodological details, including KPIs, metrics definitions, and tools used, ensuring transparency and reproducibility of the analysis.
+
 
 ---
 
